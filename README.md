@@ -53,7 +53,7 @@ I had some trouble finding where things were in Xcode but the videos provided we
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Emma Saccone]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
